@@ -1,0 +1,27 @@
+.information{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: #dbc2c29c ;
+    border-radius: 20px;
+}
+.img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    
+  
+ 
+}
+.img img{
+   width: 200px;
+   border-radius: 20px;
+   height: 250px;
+   margin-left:35px;
+   
+ 
+}
+.user_info{
+    text-align: center;
+        
+}
